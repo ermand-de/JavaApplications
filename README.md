@@ -83,6 +83,3 @@ Download the NewBankAccount.csv from the repository to test the application
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/ermand-de/JavaApplications/issues) if you want to contribute.
 
-## License
-
-[MIT](link-to-license)
