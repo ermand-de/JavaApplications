@@ -75,6 +75,7 @@ The application offers the following functionalities:
 
 Detailed instructions on how to use this application will follow. 
 Generally, the application reads a .csv file to create new bank accounts and manages these accounts according to the specified rules.
+Download the NewBankAccount.csv from the repository to test the application
 
 
 
